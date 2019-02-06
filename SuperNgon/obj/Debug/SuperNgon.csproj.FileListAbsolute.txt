@@ -1,0 +1,9 @@
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\bin\Debug\SuperNgon.exe.config
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\bin\Debug\SuperNgon.exe
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\bin\Debug\SuperNgon.pdb
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\obj\Debug\_SuperNgon.Form1.resources
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\obj\Debug\_SuperNgon.Properties.Resources.resources
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\obj\Debug\SuperNgon.csproj.GenerateResource.cache
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\obj\Debug\SuperNgon.csproj.CoreCompileInputs.cache
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\obj\Debug\SuperNgon.exe
+C:\Users\kdhdu\Desktop\SuperNgon\SuperNgon\obj\Debug\SuperNgon.pdb
